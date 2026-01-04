@@ -43,6 +43,7 @@ El objetivo es practicar JavaScript sin frameworks, entendiendo cómo funcionan:
 
 ---
 
+
 ## 👤 Autor
 
 **Alberto Figini**  
