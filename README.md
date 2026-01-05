@@ -55,3 +55,64 @@ https://adfigini.github.io/todo-list-js/
 Desarrollador Frontend en formación
 
 GitHub: **@Adfigini**
+
+------------------------------------------------------------------------------------------------------------------------------
+
+# ✅ To-Do List: JavaScript
+
+A simple to-do list application developed with **pure JavaScript**, focused on logic, DOM manipulation, and data persistence.
+
+---
+
+## 🎯 Project Objective
+
+This project is part of my learning process as a **junior frontend developer**.
+
+The goal is to practice JavaScript without frameworks, understanding how they work:
+
+- Events
+- State
+- Persistence with `localStorage`
+- DOM Manipulation
+
+---
+
+## 🧩 Technologies Used
+
+- **HTML5** — semantic structure
+- **CSS3** — basic styles and design
+- **Vanilla JavaScript** — application logic
+- **Git and GitHub** — version control
+
+---
+
+## ⚙️ Features
+
+- Add tasks
+- Mark tasks as completed
+- Task persistence using `localStorage`
+- Simple and clear interface
+
+---
+
+## 🚀 How to Use It
+
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Add tasks
+4. Reload the page to check persistence
+
+---
+
+## 🌐 Demo on Live
+
+https://adfigini.github.io/todo-list-js/
+
+---
+
+## 👤 Author
+
+**Alberto Figini**
+Frontend Developer in training
+
+GitHub: **@Adfigini**
