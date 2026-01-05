@@ -43,6 +43,11 @@ El objetivo es practicar JavaScript sin frameworks, entendiendo cómo funcionan:
 
 ---
 
+## 🌐 Demostración en vivo
+
+https://adfigini.github.io/todo-list-js/
+
+---
 
 ## 👤 Autor
 
